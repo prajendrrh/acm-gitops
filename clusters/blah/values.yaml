@@ -1,4 +1,0 @@
-cluster:
-  baseDomain: sandbox1212.opentlc.com
-  name: blah
-  env: dev
