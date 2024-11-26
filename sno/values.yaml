@@ -5,7 +5,7 @@
 cluster: 
   baseDomain: sandbox317.opentlc.com
   name: blerg
-  region: eu-west-1
+  region: eu-west-2
   env: prod
 
 clusterSet:
