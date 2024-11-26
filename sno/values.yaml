@@ -3,16 +3,16 @@
 # Declare variables to be passed into your templates.
 
 cluster: 
-  baseDomain: sandbox988.opentlc.com
-  name: biscuits
-  region: eu-central-1
-  env: develop
+  baseDomain: sandbox317.opentlc.com
+  name: blerg
+  region: eu-west1
+  env: prod
 
 clusterSet:
   enabled: true
   name: demo
 
-sshPubKey: 'ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBAFxyok2ct+e86QZ4citEc126CT+eXrOxwiAXrSQcyegCLZdi3Ms7ahvvMlZ5VCXnvfEnyWDAEuF+W8sWe+K7C4I7wC3ex+TnSvcLOx2lZAzBdZUUZdkccLPY1UJB67EFBdn3X3V5u2OBU9J/ceBD66tgeVlaqUXDgEqYQG77U2hMmUPCg== donal@dspring1-mac'
+sshPubKey: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAJRJuCD7XjKfVCpY3uLI/4uhgeRKpJvmKrgG/8lNZ+2 prajendr@prajendr-mac'
 
 sealedSecrets: true
 
