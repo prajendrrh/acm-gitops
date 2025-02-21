@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 cluster: 
-  baseDomain: sandbox317.opentlc.com
+  baseDomain: sandbox2942.opentlc.com
   name: blerg
   region: eu-west-2
   env: prod
